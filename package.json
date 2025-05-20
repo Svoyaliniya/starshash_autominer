@@ -1,0 +1,19 @@
+{
+  "name": "starthash_autobot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "get_mouse_pos": "node mouse_position.js",
+    "start": "node index.js",
+    "get_cash": "node get_cash.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^24.1.1",
+    "robotjs": "^0.6.0"
+  }
+}
