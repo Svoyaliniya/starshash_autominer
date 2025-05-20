@@ -1,3 +1,5 @@
+# starshash_miner
+
 RUS: Больше неактуально, т. к. StarHash больше не существует!
 ENG: No longer relevant as StarHash no longer exists!
 
