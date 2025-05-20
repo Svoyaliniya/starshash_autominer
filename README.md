@@ -1,4 +1,4 @@
-# starshash_miner
+# starshash_autominer
 
 RUS: Больше неактуально, т. к. StarHash больше не существует!
 ENG: No longer relevant as StarHash no longer exists!
